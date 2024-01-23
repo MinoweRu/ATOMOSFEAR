@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8ab6873f17fe49e4090fce686a1b2144
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 500
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Dotto Eng
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d3aeda8722bb2a84ab5da1c1505dd91f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
